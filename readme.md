@@ -10,3 +10,4 @@ Este é um projeto criado com a ajuda de um vídeo do <a href="https://www.youtu
 
 Obrigado por acessar meu github.
 
+<img src="https://raw.githubusercontent.com/losanthiago/spotify-clone/main/landing-page.png?token=GHSAT0AAAAAABYRL5LWTGEO4WDQRL4TWVGMYY7IGAQ" alt="landing-page">
